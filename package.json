@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/olivierlesnicki/express-x-ray",
   "dependencies": {
-    "express": "^4.12.2"
+    "express": "^4.12.2",
+    "x-ray": "git+https://github.com/olivierlesnicki/x-ray-select.git"
   }
 }
