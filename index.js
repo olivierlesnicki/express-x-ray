@@ -47,6 +47,8 @@ router
       });
     }
 
+    // Offer some default
+    // prepare filters
     x.prepare({
       number: function (str) {
         return Number(str);

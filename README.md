@@ -1,2 +1,2 @@
 # express-x-ray
-A router level Express middleware that turns websites into structured APIs (powered by x-ray).
+express-x-ray is a middleware that lets your web server exposes  web scrapping API.
