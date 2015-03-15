@@ -1,6 +1,6 @@
 {
   "name": "express-x-ray",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A router level Express middleware that turns websites into structured APIs (powered by x-ray).",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,9 @@
   },
   "homepage": "https://github.com/olivierlesnicki/express-x-ray",
   "dependencies": {
+    "body-parser": "^1.12.0",
     "express": "^4.12.2",
+    "lodash": "^3.5.0",
     "x-ray": "git+https://github.com/olivierlesnicki/x-ray.git"
   }
 }
