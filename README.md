@@ -1,2 +1,2 @@
 # express-x-ray
-express-x-ray is a middleware that lets your web server exposes  web scrapping API.
+An Express middleware which exposes a web scrapping API.
