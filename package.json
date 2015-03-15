@@ -1,0 +1,30 @@
+{
+  "name": "express-x-ray",
+  "version": "1.0.0",
+  "description": "A router level Express middleware that turns websites into structured APIs (powered by x-ray).",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olivierlesnicki/express-x-ray.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "x-ray",
+    "web",
+    "scraper",
+    "api"
+  ],
+  "author": "Olivier Lesnicki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olivierlesnicki/express-x-ray/issues"
+  },
+  "homepage": "https://github.com/olivierlesnicki/express-x-ray",
+  "dependencies": {
+    "express": "^4.12.2"
+  }
+}
